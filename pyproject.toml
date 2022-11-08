@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "sogou-scraper-pw"
-version = "0.1.0a0"
+version = "0.1.0a1"
 description = ""
 authors = ["freemt"]
 readme = "README.md"
